@@ -1,0 +1,12 @@
+C:\Users\LabUser02\Source\Repos\UnivercityApp\Univercity.Models\bin\Debug\Univercity.Models.dll
+C:\Users\LabUser02\Source\Repos\UnivercityApp\Univercity.Models\bin\Debug\Univercity.Models.pdb
+C:\Users\LabUser02\Source\Repos\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.csproj.AssemblyReference.cache
+C:\Users\LabUser02\Source\Repos\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.csproj.CoreCompileInputs.cache
+C:\Users\LabUser02\Source\Repos\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.dll
+C:\Users\LabUser02\Source\Repos\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.pdb
+C:\Users\karen\RiderProjects\UnivercityApp\UnivercityApp\Univercity.Models\bin\Debug\Univercity.Models.dll
+C:\Users\karen\RiderProjects\UnivercityApp\UnivercityApp\Univercity.Models\bin\Debug\Univercity.Models.pdb
+C:\Users\karen\RiderProjects\UnivercityApp\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.csproj.AssemblyReference.cache
+C:\Users\karen\RiderProjects\UnivercityApp\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.csproj.CoreCompileInputs.cache
+C:\Users\karen\RiderProjects\UnivercityApp\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.dll
+C:\Users\karen\RiderProjects\UnivercityApp\UnivercityApp\Univercity.Models\obj\Debug\Univercity.Models.pdb
